@@ -13,3 +13,15 @@
 This repository is the official PyTorch implementation of the ACCV 2022 paper "SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis".
 
 Coming soon!
+
+## Citation
+If you find our work useful in your research, please consider to cite our paper.
+
+```
+@inproceedings{li2022symmnerf,
+  title = {SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis},
+  author = {Li, Xingyi and Hong, Chaoyi and Wang, Yiran and Cao, Zhiguo and Xian, Ke and Lin, Guosheng},
+  booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+  year = {2022}
+}
+```
