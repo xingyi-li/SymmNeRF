@@ -1,0 +1,16 @@
+expname = srns_cars
+distributed = False
+
+datadir = '/data2/lixingyi/dataset/SRN_Dataset/'
+train_scene = 'cars'
+eval_scene = 'cars'
+train_dataset = 'srns_dataset'
+eval_dataset = 'srns_dataset'
+
+lrate_mlp = 1e-4
+lrate_feature = 1e-4
+
+N_rand = 256
+batch_size = 4
+
+white_bkgd = True
