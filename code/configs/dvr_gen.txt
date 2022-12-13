@@ -1,0 +1,14 @@
+expname = sn64_unseen
+distributed = False
+
+datadir = '/data3/lixingyi/dataset/NMR_Dataset/'
+train_dataset = 'dvr_gen'
+eval_dataset = 'dvr_gen'
+
+lrate_mlp = 1e-4
+lrate_feature = 1e-4
+
+N_rand = 256
+batch_size = 4
+
+white_bkgd = True
