@@ -1,5 +1,5 @@
 # SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis (ACCV 2022)
-[Xingyi Li](https://scholar.google.com/citations?user=XDKQsvUAAAAJ&hl)<sup>1</sup>,
+[Xingyi Li]([https://scholar.google.com/citations?user=XDKQsvUAAAAJ&hl](https://xingyi-li.github.io/))<sup>1</sup>,
 [Chaoyi Hong](https://www.semanticscholar.org/author/Chaoyi-Hong/2047434854)<sup>1</sup>,
 [Yiran Wang](https://scholar.google.com/citations?user=p_RnaI8AAAAJ&hl)<sup>1</sup>,
 [Zhiguo Cao](http://english.aia.hust.edu.cn/info/1085/1528.htm)<sup>1</sup>,
