@@ -8,7 +8,7 @@
 
 <sup>1</sup>Huazhong University of Science and Technology, <sup>2</sup>Nanyang Technological University
 
-### [Paper](https://github.com/xingyi-li/SymmNeRF/blob/main/assets/SymmNeRF.pdf) | [Supp](https://github.com/xingyi-li/SymmNeRF/blob/main/assets/SymmNeRF-supp.pdf) | [Poster](https://github.com/xingyi-li/SymmNeRF/blob/main/assets/SymmNeRF-poster.pdf) | [Video](https://github.com/xingyi-li/SymmNeRF/blob/main/assets/SymmNeRF-video.mp4)
+### [Paper](https://github.com/xingyi-li/SymmNeRF/blob/main/pdf/symmnerf-paper.pdf) | [arXiv](https://arxiv.org/abs/2209.14819) | [Video](https://youtu.be/YWIjScmMWwc) | [Supp](https://github.com/xingyi-li/SymmNeRF/blob/main/pdf/symmnerf-supp.pdf) | [Poster](https://github.com/xingyi-li/SymmNeRF/blob/main/pdf/symmnerf-poster.pdf) 
 
 This repository is the official PyTorch implementation of the ACCV 2022 paper "SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis".
 
