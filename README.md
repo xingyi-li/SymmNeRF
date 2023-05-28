@@ -60,11 +60,13 @@ CUDA_VISIBLE_DEVICES=3 python eval.py --config ../configs/dvr_gen.txt --expname 
 If you find our work useful in your research, please consider to cite our paper:
 
 ```
-@inproceedings{li2022symmnerf,
-  title = {SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis},
-  author = {Li, Xingyi and Hong, Chaoyi and Wang, Yiran and Cao, Zhiguo and Xian, Ke and Lin, Guosheng},
-  booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
-  year = {2022}
+@InProceedings{li2022symmnerf,
+    author    = {Li, Xingyi and Hong, Chaoyi and Wang, Yiran and Cao, Zhiguo and Xian, Ke and Lin, Guosheng},
+    title     = {SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {December},
+    year      = {2022},
+    pages     = {1726-1742}
 }
 ```
 
