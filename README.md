@@ -3,7 +3,7 @@
 [Chaoyi Hong](https://www.semanticscholar.org/author/Chaoyi-Hong/2047434854)<sup>1</sup>,
 [Yiran Wang](https://scholar.google.com/citations?user=p_RnaI8AAAAJ&hl)<sup>1</sup>,
 [Zhiguo Cao](http://english.aia.hust.edu.cn/info/1085/1528.htm)<sup>1</sup>,
-[Ke Xian](https://sites.google.com/site/kexian1991/)<sup>2*</sup>,
+[Ke Xian](https://kexianhust.github.io/)<sup>2*</sup>,
 [Guosheng Lin](https://guosheng.github.io/)<sup>2</sup>
 
 <sup>1</sup>Huazhong University of Science and Technology, <sup>2</sup>Nanyang Technological University
